@@ -1,0 +1,24 @@
+{
+  "name": "stablediffusion",
+  "version": "0.0.1",
+  "description": "stable diffustion library and cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/stablediffusion.git"
+  },
+  "keywords": [
+    "stable",
+    "diffusion",
+    "stablediffusion"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/stablediffusion/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/stablediffusion#readme"
+}
